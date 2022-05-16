@@ -1,4 +1,4 @@
-# Blog Sarahi Ayala
+# Blog Sarah Ayala
 
 Hola mundo! Bienvenidos a mi blog.
 
